@@ -1,0 +1,10 @@
+archivo.txt
+comandosLinux.jpg
+comandosLinuxParte2.jpg
+ejemplo1.txt
+nuevo.txt
+prog_basica
+texto.txt
+texto2.txt
+usosDeBatch.jpg
+vimYNano.jpg

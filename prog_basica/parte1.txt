@@ -1,0 +1,15 @@
+gof = "God of war"
+halo = "Halo"
+botw = "Zelda - Breath of the wild"
+
+def videoJuego(opcion):
+    print("Deberías jugar " + str(opcion))
+
+
+def run():
+    menu = """1) PlayStation 4 \n2) Xbox One \n3) Nintendo Switch """
+    print(menu)
+    opcion = int(input("¿Cuál de estás es tu consola favorita?: "))
+    if opcion==1:
+        videoJuego(gof)
+    elif opcion==2:
